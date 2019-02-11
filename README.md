@@ -1,3 +1,4 @@
+v1.0
 Dequant Core integration/staging repository
 =====================================
 
